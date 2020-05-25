@@ -30,3 +30,5 @@
 2. [goadmin](https://github.com/CrazyRocks/goadmin)&[autocreate](https://github.com/CrazyRocks/autocreate)
 
 *我能做到任何事情，是因为站在巨人的肩膀上*
+
+一个大二学生在疫情期间都干了什么？？？
