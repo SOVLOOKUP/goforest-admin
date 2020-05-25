@@ -14,19 +14,19 @@
 7. [ ] Serverless workflow，成为森云 [n8n](https://github.com/n8n-io/n8n)
 8. [ ] AI全流程定制功能 [PaddleX](https://github.com/PaddlePaddle/PaddleX)
 9. [ ] 数据可视化定制 [Davinci](https://github.com/edp963/davinci)
-10. ...
+
 
 基本功能开源且免费
 1. API、函数计算超量计数收费
-3. 数据库超量收费
-4. APP定制开发、维护
-5. AI定制收费
-6. 前端广告推荐收费
+2. 数据库超量收费
+3. APP定制开发、维护
+4. AI定制收费
+5. 前端广告推荐收费
 
 ---
 特别鸣谢：
 
-1. [goframe]
+1. [goframe](https://github.com/gogf/gf)
 2. [goadmin](https://github.com/CrazyRocks/goadmin)&[autocreate](https://github.com/CrazyRocks/autocreate)
 
-我能做到任何事情，是因为站在巨人的肩膀上
+*我能做到任何事情，是因为站在巨人的肩膀上*
