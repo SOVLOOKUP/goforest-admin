@@ -1,4 +1,4 @@
-# GoForest|森云
+# GoForest | 森云
 
 森云，想成为Serverless时代的高效开发平台，前后端分离构建，适配多端平台，后端将使用*Go*、前端将使用*Typescript*构建
 
