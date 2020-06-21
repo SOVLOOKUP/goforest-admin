@@ -1,5 +1,7 @@
 # GoAdim
 
+port : 8192
+
 底层框架:GF<br/>
 前端模板:stisla<br/>
 数据库:mysql<br/>
